@@ -23,7 +23,7 @@ function App() {
                 age={28}
                 isStudent={true}
             />
-            <Student />
+            <Student name="Larry" />
             <Student />
         </>
     );
